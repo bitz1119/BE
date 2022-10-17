@@ -1,7 +1,7 @@
 # BE
 
 
-# Steps to revise your basics completely
+## NodeJS RoadMap
 - Basic Implementations [freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)
 
 - Node Basics [freecodecamp](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
@@ -26,8 +26,5 @@
         - Go through few nodeJs developer resumes
             - Find good points
     - Interview Questions and Experiences
-        -  [NodeJs interviews](https://www.youtube.com/results?search_query=nodejs+interview)
+        - [NodeJs interviews](https://www.youtube.com/results?search_query=nodejs+interview)
         - [Interview Questions](https://github.com/learning-zone/nodejs-interview-questions)
-
-
-
